@@ -21,7 +21,7 @@ def divide(x, y):
 def modulus(x, y):
     return x % y
 
-def exponentiate(x, y):
+def exponential(x, y):
     return x ** y
 
 @app.route('/')
@@ -45,7 +45,7 @@ def calculate():
     elif operation == 'modulus':
         result = modulus(num1, num2)
     elif operation == 'exponentiate':
-        result = exponentiate(num1, num2)
+        result = exponential(num1, num2)
     
     return render_template('index.html', result=result)
 

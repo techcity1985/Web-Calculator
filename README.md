@@ -13,7 +13,7 @@ You can view the live application [here]([https://basic-calculator.herokuapp.com
 - Multiplication
 - Division
 - Modulus
-- Exponentiation
+- Exponential
 
 ## Installation
 

@@ -4,7 +4,7 @@ This is a basic calculator application built with Flask and deployed on Heroku.
 
 ## Live Application
 
-You can view the live application [here]([https://basic-calculator.herokuapp.com/](https://basic-calculator-e651599687f6.herokuapp.com/calculate)).
+You can view the live application [here][(https://www.heraafarooq.com/projects/smart-calculator/)].
 
 ## Features
 
